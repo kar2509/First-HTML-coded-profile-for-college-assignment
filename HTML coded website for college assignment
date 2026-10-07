@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kartik Agarwal - Personal Profile</title>
+</head>
+<body>
+
+    <h1>Kartik Agarwal</h1>
+    <p>Enrollment ID: S26CSEU0647</p>
+    
+    <p>
+        Hello! I am Kartik Agarwal, a first-year B.Tech Computer Science and Engineering student at Bennett University. 
+        I am passionate about programming, web development, and exploring modern software technologies to build innovative solutions.
+    </p>
+
+    <h2>Skills & Interests</h2>
+    <ul>
+        <li>Programming in Python & C++</li>
+        <li>Web Development (HTML, CSS, JavaScript)</li>
+        <li>Data Analysis & Problem Solving</li>
+    </ul>
+
+    <h2>Connect & Profile</h2>
+    <img src="C:\Users\This PC\OneDrive\Desktop\1st year projects\pfp.jpeg" alt="Kartik Agarwal's Profile Photo" class="mobile-friendly-image" width="170" height="350">
+    <p>
+        Visit my LinkedIn profile: 
+        <a href="https://www.linkedin.com/in/kartik-agarwal-317648411/" target="_blank" rel="noopener noreferrer">My LinkedIn Profile</a>
+    </p>
+
+</body>
+</html>
